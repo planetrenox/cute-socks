@@ -1,0 +1,21 @@
+{
+  "name": "cute-socks",
+  "version": "0.1.0",
+  "description": "Experimental piercer jquery-like shorthand for document.querySelector.",
+  "main": "index.js",
+  "bin": {
+    "cute-socks": "./index.js"
+  },
+  "scripts": {
+    "postinstall": "echo ''"
+  },
+  "keywords": [
+    "cute",
+    "development",
+    "$",
+	"jquery-like",
+    "utility"
+  ],
+  "author": "planetrenox",
+  "license": "CC-BY-4.0"
+}
