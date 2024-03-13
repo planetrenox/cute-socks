@@ -1,6 +1,6 @@
 {
   "name": "cute-socks",
-  "version": "0.2.0",
+  "version": "0.4.1",
   "description": "Experimental piercer jquery-like shorthand for document.querySelector.",
   "main": "index.js",
   "bin": {
